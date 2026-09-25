@@ -1,0 +1,53 @@
+cahier des charges
+projet : Mini-blog
+
+1. presentation du projet
+
+Le projet consiste a developper une application web de type permettant de gerer des articles a partir d'une interface si mple.
+
+2. Objectif
+
+L'objectif est de permettre à un utilisateur de créer, consulter,
+modifier et supprimer des articles.
+
+3. Fonctionnalités
+
+L'application devra permettre :
+
+- d'ajouter un article ;
+- d'afficher la liste des articles ;
+- de consulter les informations d'un article ;
+- de modifier un article ;
+- de supprimer un article ;
+- de rechercher un article ;
+- d'enregistrer les articles dans une base de données MySQL.
+
+4. Écrans principaux
+
+L'application comportera les écrans suivants :
+
+- Page d'accueil : affichage de la liste des articles ;
+- Page d'ajout : formulaire permettant d'ajouter un article ;
+- Page de modification : formulaire permettant de modifier un article ;
+- Page de suppression : confirmation de suppression ;
+- Page de recherche : recherche d'un article.
+
+5. Technologies utilisées
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Git
+- GitHub
+
+6. Utilisateurs
+
+L'application sera principalement utilisée par un administrateur
+pour gérer les articles du mini-blog.
+
+7. Résultat attendu
+
+L'application devra être fonctionnelle, responsive et permettre la
+gestion complète des articles avec une base de données MySQL.
