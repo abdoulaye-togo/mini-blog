@@ -19,7 +19,7 @@ $articles = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
     <h1>Mon Mini-Blog</h1>
 
-    <a href="ajouter.php">Ajouter un article</a>
+    <a href="ajouter.php">Ajouter un nouveau article</a>
 
     <hr>
 
